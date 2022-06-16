@@ -1,0 +1,16 @@
+#Interaction{
+    position: absolute;
+    z-index: 11;
+    top: 0px;
+    right: 0px;
+}
+#overlay{
+    display: none;
+}
+.interBott{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    margin-bottom: 20px;;
+    cursor: pointer;
+}
